@@ -1,0 +1,10 @@
+.pio/
+build/
+managed_components/
+sdkconfig.old
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store
+datasets/
